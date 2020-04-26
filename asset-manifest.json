@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies-rolodex/static/css/main.7c823cbd.chunk.css",
+    "main.js": "/movies-rolodex/static/js/main.3cd78a16.chunk.js",
+    "main.js.map": "/movies-rolodex/static/js/main.3cd78a16.chunk.js.map",
+    "runtime-main.js": "/movies-rolodex/static/js/runtime-main.2ba67336.js",
+    "runtime-main.js.map": "/movies-rolodex/static/js/runtime-main.2ba67336.js.map",
+    "static/js/2.21ea3aa2.chunk.js": "/movies-rolodex/static/js/2.21ea3aa2.chunk.js",
+    "static/js/2.21ea3aa2.chunk.js.map": "/movies-rolodex/static/js/2.21ea3aa2.chunk.js.map",
+    "index.html": "/movies-rolodex/index.html",
+    "precache-manifest.9f7afe3bcdaeb89a2b981724bb554149.js": "/movies-rolodex/precache-manifest.9f7afe3bcdaeb89a2b981724bb554149.js",
+    "service-worker.js": "/movies-rolodex/service-worker.js",
+    "static/css/main.7c823cbd.chunk.css.map": "/movies-rolodex/static/css/main.7c823cbd.chunk.css.map"
+  }
+}
